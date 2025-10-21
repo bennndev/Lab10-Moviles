@@ -216,9 +216,3 @@ fun ContenidoSerieEliminar(navController: NavHostController, servicio: SerieApiS
         }
     }
 }
-
-
-
-
-
-
