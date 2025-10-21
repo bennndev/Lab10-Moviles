@@ -1,4 +1,4 @@
-package com.example.lab10.ui.screens
+package com.example.lab10.ui.view
 
 import android.util.Log
 import androidx.compose.foundation.layout.Column
